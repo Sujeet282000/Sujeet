@@ -1,5 +1,3 @@
-# Sujeet
-
 🔭 I’m currently working on on an Exciting Sarthi App
 
 👨‍💻 All of my projects are available at my Portfolio Site 👆
